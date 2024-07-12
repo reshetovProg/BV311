@@ -1,2 +1,5 @@
-# BV311
-classwork
+# Классные работы группы BV311 
+## язык С++
+- [12.07.2024](https://github.com/reshetovProg/BV311/tree/master/12.07.2024) - примитивная задача по ООП
+
+
