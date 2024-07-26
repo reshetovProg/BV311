@@ -1,0 +1,10 @@
+1;Pol;Samian
+2;Vasia;Reshetov
+3;Vasia;Samian
+4;Tom;Reshetov
+5;Vasia;Reshetov
+6;Oleg;Samian
+7;Pol;Samian
+8;Pol;Samian
+9;Tom;Ivanov
+10;Vasia;Ivanov
